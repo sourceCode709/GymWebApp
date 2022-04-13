@@ -1,0 +1,20 @@
+{
+    "name": "Gainz",
+    "start_url": "./",
+    "display": "standalone",
+    "theme_color": "#9c27b0",
+    "background_color": "#fff",
+    "scope": "./",
+    "icons": [
+        {
+            "src": "/static/icons/144.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
+        {
+            "src": "/static/icons/512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
